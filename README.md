@@ -6,7 +6,7 @@
 
 Building production REST APIs and real-time systems in C#/.NET and ABP Framework, with an early lead on AI-agent-accessible APIs via the Model Context Protocol (MCP).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hridoy.dev-000000?style=flat-square)](https://hridoy.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hridoy--mia--portfolio.netlify.app-000000?style=flat-square)](https://hridoy-mia-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hridoy--mia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridoy-mia)
 [![Email](https://img.shields.io/badge/Email-hridoymia.prgmr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hridoymia.prgmr@gmail.com)
 
@@ -71,6 +71,6 @@ JWT-authenticated finance tracker for income, expense, and debt tracking, with l
 
 <div align="center">
 
-📫 Reach me at **hridoymia.prgmr@gmail.com** · 🌐 [hridoy.dev](https://hridoy.dev) · 💼 [LinkedIn](https://linkedin.com/in/hridoy-mia)
+📫 Reach me at **hridoymia.prgmr@gmail.com** · 🌐 [Portfolio](https://hridoy-mia-portfolio.netlify.app/) · 💼 [LinkedIn](https://linkedin.com/in/hridoy-mia)
 
 </div>
