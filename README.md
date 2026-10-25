@@ -6,7 +6,7 @@
 
 Building production REST APIs and real-time systems in C#/.NET and ABP Framework, with an early lead on AI-agent-accessible APIs via the Model Context Protocol (MCP).
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hridoy--mia--portfolio.netlify.app-000000?style=flat-square)](https://hridoy-mia-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hridoy--mia--portfolio.netlify.app-000000?style=flat-square)]((https://hridoymia.me/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hridoy--mia-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridoy-mia)
 [![Email](https://img.shields.io/badge/Email-hridoymia.prgmr%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hridoymia.prgmr@gmail.com)
 
